@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xijianlv/CLionProjects/os/learnOS/main.c
+tools/floppy.h
+/home/xijianlv/CLionProjects/os/learnOS/tools/floppy.h
+tools/fileinfo.h
+/home/xijianlv/CLionProjects/os/learnOS/tools/fileinfo.h
+
+/home/xijianlv/CLionProjects/os/learnOS/tools/fileinfo.h
+
+/home/xijianlv/CLionProjects/os/learnOS/tools/floppy.h
+fileinfo.h
+/home/xijianlv/CLionProjects/os/learnOS/tools/fileinfo.h
+

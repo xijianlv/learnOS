@@ -1,5 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/learnOS.dir/main.c.o"
+  "CMakeFiles/learnOS.dir/tools/fileinfo.c.o"
+  "CMakeFiles/learnOS.dir/tools/floppy.c.o"
   "learnOS"
   "learnOS.pdb"
 )

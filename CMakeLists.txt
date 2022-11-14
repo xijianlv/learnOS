@@ -3,4 +3,4 @@ project(learnOS C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(learnOS main.c)
+add_executable(learnOS main.c tools/fileinfo.c tools/floppy.c)

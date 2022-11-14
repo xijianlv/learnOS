@@ -153,6 +153,54 @@ main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/learnOS.dir/build.make CMakeFiles/learnOS.dir/main.c.s
 .PHONY : main.c.s
 
+tools/fileinfo.o: tools/fileinfo.c.o
+.PHONY : tools/fileinfo.o
+
+# target to build an object file
+tools/fileinfo.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learnOS.dir/build.make CMakeFiles/learnOS.dir/tools/fileinfo.c.o
+.PHONY : tools/fileinfo.c.o
+
+tools/fileinfo.i: tools/fileinfo.c.i
+.PHONY : tools/fileinfo.i
+
+# target to preprocess a source file
+tools/fileinfo.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learnOS.dir/build.make CMakeFiles/learnOS.dir/tools/fileinfo.c.i
+.PHONY : tools/fileinfo.c.i
+
+tools/fileinfo.s: tools/fileinfo.c.s
+.PHONY : tools/fileinfo.s
+
+# target to generate assembly for a file
+tools/fileinfo.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learnOS.dir/build.make CMakeFiles/learnOS.dir/tools/fileinfo.c.s
+.PHONY : tools/fileinfo.c.s
+
+tools/floppy.o: tools/floppy.c.o
+.PHONY : tools/floppy.o
+
+# target to build an object file
+tools/floppy.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learnOS.dir/build.make CMakeFiles/learnOS.dir/tools/floppy.c.o
+.PHONY : tools/floppy.c.o
+
+tools/floppy.i: tools/floppy.c.i
+.PHONY : tools/floppy.i
+
+# target to preprocess a source file
+tools/floppy.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learnOS.dir/build.make CMakeFiles/learnOS.dir/tools/floppy.c.i
+.PHONY : tools/floppy.c.i
+
+tools/floppy.s: tools/floppy.c.s
+.PHONY : tools/floppy.s
+
+# target to generate assembly for a file
+tools/floppy.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/learnOS.dir/build.make CMakeFiles/learnOS.dir/tools/floppy.c.s
+.PHONY : tools/floppy.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +213,12 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... tools/fileinfo.o"
+	@echo "... tools/fileinfo.i"
+	@echo "... tools/fileinfo.s"
+	@echo "... tools/floppy.o"
+	@echo "... tools/floppy.i"
+	@echo "... tools/floppy.s"
 .PHONY : help
 
 

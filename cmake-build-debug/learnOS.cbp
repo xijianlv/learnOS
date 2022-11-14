@@ -81,6 +81,18 @@
 		<Unit filename="/home/xijianlv/CLionProjects/os/learnOS/main.c">
 			<Option target="learnOS"/>
 		</Unit>
+		<Unit filename="/home/xijianlv/CLionProjects/os/learnOS/tools/fileinfo.c">
+			<Option target="learnOS"/>
+		</Unit>
+		<Unit filename="/home/xijianlv/CLionProjects/os/learnOS/tools/fileinfo.h">
+			<Option target="learnOS"/>
+		</Unit>
+		<Unit filename="/home/xijianlv/CLionProjects/os/learnOS/tools/floppy.c">
+			<Option target="learnOS"/>
+		</Unit>
+		<Unit filename="/home/xijianlv/CLionProjects/os/learnOS/tools/floppy.h">
+			<Option target="learnOS"/>
+		</Unit>
 		<Unit filename="/home/xijianlv/CLionProjects/os/learnOS/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

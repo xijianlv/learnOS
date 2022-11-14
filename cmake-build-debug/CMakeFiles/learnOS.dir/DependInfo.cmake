@@ -9,6 +9,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/home/xijianlv/CLionProjects/os/learnOS/main.c" "/home/xijianlv/CLionProjects/os/learnOS/cmake-build-debug/CMakeFiles/learnOS.dir/main.c.o"
+  "/home/xijianlv/CLionProjects/os/learnOS/tools/fileinfo.c" "/home/xijianlv/CLionProjects/os/learnOS/cmake-build-debug/CMakeFiles/learnOS.dir/tools/fileinfo.c.o"
+  "/home/xijianlv/CLionProjects/os/learnOS/tools/floppy.c" "/home/xijianlv/CLionProjects/os/learnOS/cmake-build-debug/CMakeFiles/learnOS.dir/tools/floppy.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

@@ -1,1 +1,1 @@
-/usr/bin/cc -g CMakeFiles/learnOS.dir/main.c.o -o learnOS 
+/usr/bin/cc -g CMakeFiles/learnOS.dir/main.c.o CMakeFiles/learnOS.dir/tools/fileinfo.c.o CMakeFiles/learnOS.dir/tools/floppy.c.o -o learnOS 
