@@ -34,6 +34,8 @@ print:
     cmp al, 0
     jz .done
     int 0x10
+    inc si
+    jmp .loop
 .done:
     ret
 
