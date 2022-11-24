@@ -1,4 +1,1 @@
-/home/xijianlv/clion-2021.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/xijianlv/CLionProjects/os/learnOS
--- Configuring done
--- Generating done
--- Build files have been written to: /home/xijianlv/CLionProjects/os/learnOS/cmake-build-debug
+CMakeLists.txt not found in /home/xijianlv/CLionProjects/os/learnOS Select CMakeLists.txt
